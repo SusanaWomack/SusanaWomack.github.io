@@ -8,15 +8,16 @@ Always working, relying on, and being most comfortable in data, no matter what m
   
   
          
-       Data Analytics                  Data Science                      Business Intelligence  
-       Data Warehousing                 Data Modeling                      Data Quality  
-       Business Analysis        Business Requirements           Testing & User Acceptance  
-       Team Leadership                  System Owndership           Project Management  
+       Data Analytics                        Data Science                             Business Intelligence  
+       Data Warehousing                 Data Modeling                           Data Quality  
+       Business Analysis                  Business Requirements            Testing & User Acceptance  
+       Team Leadership                   System Owndership                  Project Management  
+        
   
-         
+
   
 **Technical Skills:   SQL • PL/SQL • Tableau • Teradata • Oracle • Access • R • Python • Excel • Lucidchart  
-                           RapidMiner • Machine Learning • SDLC**
+                                  RapidMiner • Machine Learning • SDLC**
 
 
 ## Projects
