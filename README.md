@@ -4,15 +4,17 @@
 
 Versatile leader with 15+ years of technology experience in a wide range of roles: developer, database analyst, system owner, technology leader, data analyst. Consistantly utilizing hands-on expertise to bridge the gap between business and technology by translating business needs and goals into data and systems solutions.
 
-Always working, relying on, and being most comfortable in data, no matter what my role.  Following my passion, I recently completed a **Data Analytics Professional Certificate** at UT Austin to start my journey in Data Science. 
-
-
-       Business Analysis              Data Analytics               System Ownership  
-       Data Warehousing              Data Modeling                Data Quality  
-       Business Requirements        Business Intelligence        Testing & User Acceptance  
-       Team Leadership                   Project Management           Vendor Management  
-
-
+Always working, relying on, and being most comfortable in data, no matter what my role.  Following my passion, I recently completed a **Data Analytics Professional Certificate** at UT Austin to start my journey in Data Science.  
+  
+  
+         
+       Data Analytics                  Data Science                      Business Intelligence  
+       Data Warehousing                 Data Modeling                      Data Quality  
+       Business Analysis        Business Requirements           Testing & User Acceptance  
+       Team Leadership                  System Owndership           Project Management  
+  
+         
+  
 **Technical Skills:   SQL • PL/SQL • Tableau • Teradata • Oracle • Access • R • Python • Excel • Lucidchart  
                            RapidMiner • Machine Learning • SDLC**
 
